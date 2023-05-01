@@ -1,6 +1,9 @@
 <h1>Hi 👋, My name is Amir Khan</h1>
 <h2>I am a Full Stack developer</h2>
 
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" />
+
 - 🌍 I am based in Aurangabad (MH), India.
 
 - 🌱 I’m currently learning **Java**<a title="Java" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
