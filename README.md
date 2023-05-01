@@ -1,6 +1,5 @@
 <h1>Hi 👋, My name is Amir Khan</h1>
 <h2>I am a Full Stack developer</h2>
-<img align="right" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" alt="coding-gif" width="400"/>
 
 - 🌍 I am based in Aurangabad (MH), India.
 
